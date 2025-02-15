@@ -1,4 +1,4 @@
-## My Philosophy 🎭
+## 🎭 My Philosophy ![IDEAS ARE BULLETPROOF](https://img.shields.io/badge/IDEAS-BULLETPROOF-rgb(159,36,35))
 
 ```txt
  ______ _______  ________  ______   ______        ______  _______  ________      _______  __    __ __       __       ________ ________ _______  _______   ______   ______  ________ 
@@ -13,7 +13,7 @@
                                                         
 ```
 
-## About Me 👋 ![Online](https://img.shields.io/badge/Online-rgb(70,201,19)) ![INFP](https://img.shields.io/badge/INFP-Power-rgb(45,75,227)) ![Happy](https://img.shields.io/badge/Mood-Happy-pink) ![Status](https://img.shields.io/badge/Status-Coding-blueviolet) 
+## 👋 About Me  ![Online](https://img.shields.io/badge/🟢-Online-rgb(70,201,19)) ![INFP](https://img.shields.io/badge/INFP-Power-rgb(45,75,227)) ![Happy](https://img.shields.io/badge/Mood-Happy-pink) ![Status](https://img.shields.io/badge/Status-Coding-blueviolet)
 
 Hey there! I'm Kay, an aspiring network security professional and grey-hat enthusiast with a passion for Python, JavaScript, machine learning, and all things tech. I'm an INFP. I find joy in the process of building and creating, especially when I get to combine my love for coding with my fascination for the digital world.
 
