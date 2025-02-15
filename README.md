@@ -42,5 +42,3 @@ I'm on a journey to become a skilled network security professional, with a focus
 ---
 
 ## Inspired by Kevin Mitnick. ![Ghost in the Wires](https://img.shields.io/badge/Ghost-in%20the%20Wires-rgb(162,204,119))
-
----
