@@ -35,7 +35,7 @@
 
 <!-- ========= INTRODUCTION & STATS ========= -->
 <div align="center">
-  <h1 align="center">Hey, I'm kay-a11y <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand" width="35" height="35" /></h1>
+  <h1 align="center">Hey, I'm Kay <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand" width="35" height="35" /></h1>
   <p align="center">
     <em>Digital Ghost navigating the wires | Pythonista & Aspiring Pentester</em><br>
     Exploring the chaos | Code. Freedom. Chaos. V.
