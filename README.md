@@ -64,7 +64,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" style="vertical-align:middle; margin:6px;" title="Git"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="45" height="45" style="vertical-align:middle; margin:6px;" title="Postman"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" style="vertical-align:middle; margin:6px;" title="VS Code"/>&nbsp;&nbsp;&nbsp;
-    <img src="/img/AdilIRC.png" alt="AdilIRC" width="58" height="58" style="vertical-align:middle; margin:6px;" title="AdilIRC"/>&nbsp;&nbsp;&nbsp;
+    <img src="/img/AdilIRC.png" alt="AdilIRC" width="54" height="54" style="vertical-align:middle; margin:6px;" title="AdilIRC"/>&nbsp;&nbsp;&nbsp;
 
   </p>
 </div>
