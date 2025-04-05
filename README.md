@@ -53,7 +53,7 @@
 
 <!-- ========= MY Tech Stack ========= -->
 <div align="center">
-  <h3 style="border-bottom: 2px solid #888; padding-bottom: 5px; display: inline-block;">My Tech Toolbelt 🛠️</h3>
+  <h3 style="border-bottom: 2px solid #888; padding-bottom: 5px; display: inline-block;">My Geeky Playground 📍</h3>
   <br><br>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" style="vertical-align:middle; margin:6px;" title="Python"/>&nbsp;&nbsp;&nbsp;
@@ -64,6 +64,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" style="vertical-align:middle; margin:6px;" title="Git"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="45" height="45" style="vertical-align:middle; margin:6px;" title="Postman"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" style="vertical-align:middle; margin:6px;" title="VS Code"/>&nbsp;&nbsp;&nbsp;
+    <img src="/img/AdilIRC.png" alt="AdilIRC" width="58" height="58" style="vertical-align:middle; margin:6px;" title="AdilIRC"/>&nbsp;&nbsp;&nbsp;
+
   </p>
 </div>
 <br><br>
