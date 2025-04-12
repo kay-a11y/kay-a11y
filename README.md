@@ -35,11 +35,17 @@
 
 <!-- ========= INTRODUCTION & STATS ========= -->
 <div align="center">
-  <h1 align="center">Hey, I'm Kay <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand" width="35" height="35" /></h1>
+  <h1 align="center">Hey, there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand" width="35" height="35" /></h1>
   <p align="center">
     <em>Digital Ghost navigating the wires | Pythonista & Aspiring Pentester</em><br>
     Exploring the chaos | Code. Freedom. Chaos. V.
   </p>
+
+<div align="center">
+  <h2 align="center">Latest Blog Posts <img src="https://private-user-images.githubusercontent.com/74038190/250967242-a2605358-6b87-44ab-87fb-20dcdc5f9ef2.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ0Njk3ODQsIm5iZiI6MTc0NDQ2OTQ4NCwicGF0aCI6Ii83NDAzODE5MC8yNTA5NjcyNDItYTI2MDUzNTgtNmI4Ny00NGFiLTg3ZmItMjBkY2RjNWY5ZWYyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDEyVDE0NTEyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYzYjFiOGMwNTg2YjM4MjVhZDAxODZhZTg0YzI4M2Q0YjdhYTFjMzRmZmY2MDkwYjdhZmI5MDE1ZTVmODBmMWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.C998JaKyu6RiY1o1SRhGEJP-gLoxCiYVhgG8AtUlZUs" width="35" height="35" data-target="animated-image.originalImage"></h2>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
   <!-- Awesome GitHub Stats & Trophies -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kay-a11y&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Langs" height="150"/>
@@ -53,7 +59,7 @@
 
 <!-- ========= MY Tech Stack ========= -->
 <div align="center">
-  <h3 style="border-bottom: 2px solid #888; padding-bottom: 5px; display: inline-block;">My Geeky Playground 📍</h3>
+  <h3 style="border-bottom: 2px solid #888; padding-bottom: 5px; display: inline-block;">My Geeky Playground <img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ0Njk3ODQsIm5iZiI6MTc0NDQ2OTQ4NCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDEyVDE0NTEyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZjZDMzOGNjMjVkOTg5Zjc2ODFjMjZjN2FmZGZjYzE1NjdjMGUxNmViNjk4ZjQ2MzljYjM4ZDRjMDFlOWY3MzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XfGixhv9bn11uIIz_nRaPnT_ULVf62w8AgUo-aq2MgU" width="35" height="35" data-target="animated-image.originalImage"></h3>
   <br><br>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" style="vertical-align:middle; margin:6px;" title="Python"/>&nbsp;&nbsp;&nbsp;
@@ -72,7 +78,7 @@
 
 <!-- ========= CURRENT FOCUS / PROJECTS ========= -->
 <div align="center">
-  <h3>⚡ Current Focus</h3>
+  <h3>Current Focus <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="35" height="35"></h3>
 
   <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -87,7 +93,7 @@
 
 <!-- ========= INTERESTS (Visualized) ========= -->
 <div align="center">
-  <h3 style="border-bottom: 2px solid #888; padding-bottom: 5px; display: inline-block;">Interests & Inspirations ✨</h3>
+  <h3 style="border-bottom: 2px solid #888; padding-bottom: 5px; display: inline-block;">Interests & Inspirations <img src="https://private-user-images.githubusercontent.com/74038190/238200839-9c351cb9-c9a2-4b20-8420-e96b8331a53b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ0Njk3ODQsIm5iZiI6MTc0NDQ2OTQ4NCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzktOWMzNTFjYjktYzlhMi00YjIwLTg0MjAtZTk2YjgzMzFhNTNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDEyVDE0NTEyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEzZjAzNTA3MjI2ZjhkODllMDkwMTkwZTcwMDc0MGJhZDJhZDEyYzg2NjQxMGNlZWU5NjhiMjhmN2E1NTZhYzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qGPeyJO040zEXvhYpyqtUw9qgV4j6T14Fmb5_hrAzxc" width="45" height="45" data-target="animated-image.originalImage"></h3>
   <br><br>
    <img src="https://img.shields.io/badge/-Code-000000?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt="Code"/>
    &nbsp;
