@@ -9,6 +9,9 @@ on:
   schedule:
     - cron: '0 1 * * *' # UTC -8 18:00
 
+permissions:
+  contents: write
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
