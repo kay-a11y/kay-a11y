@@ -45,11 +45,11 @@
   <h2 align="center">Latest Blog Posts <img src="https://private-user-images.githubusercontent.com/74038190/250967242-a2605358-6b87-44ab-87fb-20dcdc5f9ef2.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ0Njk3ODQsIm5iZiI6MTc0NDQ2OTQ4NCwicGF0aCI6Ii83NDAzODE5MC8yNTA5NjcyNDItYTI2MDUzNTgtNmI4Ny00NGFiLTg3ZmItMjBkY2RjNWY5ZWYyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDEyVDE0NTEyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYzYjFiOGMwNTg2YjM4MjVhZDAxODZhZTg0YzI4M2Q0YjdhYTFjMzRmZmY2MDkwYjdhZmI5MDE1ZTVmODBmMWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.C998JaKyu6RiY1o1SRhGEJP-gLoxCiYVhgG8AtUlZUs" width="35" height="35" data-target="animated-image.originalImage"></h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 4: Bitcoin Breakdowns &amp; Ethereum&#39;s Electric Genesis](https://kay-a11y.github.io/posts/part4-Ethereum/)
-- [Part 3: Bitcoin&#39;s Wild West - Pizza, Silk Road, and Digital Legends](https://kay-a11y.github.io/posts/part3-silk/)
-- [Part 2: The Genesis Block - Bitcoin Is Born](https://kay-a11y.github.io/posts/part2-bitcoin/)
-- [Part 1: The Cypherpunk Dream - Before Bitcoin Was Born](https://kay-a11y.github.io/posts/part1-cypherpunk/)
-- [🧭 Crypto Story Navigation](https://kay-a11y.github.io/posts/crypto-story-navigation/)
+- [Part 7 - Chapter 3: The Rise and Fall of FTX &amp; Sam Bankman-Fried](https://kay-a11y.github.io/posts/part7-3-FTX-Sam-Bankman-Fried/)
+- [Part 7 - Chapter 2: The Terra Luna Catastrophe](https://kay-a11y.github.io/posts/part7-2-Terra-Luna-Catastrophe/)
+- [Part 7 - Chapter 1: The Fall of Crypto Gods — 2022 Begins to Shake](https://kay-a11y.github.io/posts/part7-1-Fall-Crypto-Gods/)
+- [Part 6: DeFi, Rug Pulls, and the Web3 Dream &lpar;or... is it a Meme?&rpar;](https://kay-a11y.github.io/posts/part6-DeFi-Rug-Web3/)
+- [Part 5: ICO Booms, Ethereum Hacks &amp; Doge Rebellion](https://kay-a11y.github.io/posts/part5-ICO-Ethereum-Doge/)
 <!-- BLOG-POST-LIST:END -->
 
   <!-- Awesome GitHub Stats & Trophies -->
