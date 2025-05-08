@@ -45,11 +45,11 @@
   <h2 align="center">Latest Blog Posts <img src="https://private-user-images.githubusercontent.com/74038190/250967242-a2605358-6b87-44ab-87fb-20dcdc5f9ef2.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ0Njk3ODQsIm5iZiI6MTc0NDQ2OTQ4NCwicGF0aCI6Ii83NDAzODE5MC8yNTA5NjcyNDItYTI2MDUzNTgtNmI4Ny00NGFiLTg3ZmItMjBkY2RjNWY5ZWYyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDEyVDE0NTEyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYzYjFiOGMwNTg2YjM4MjVhZDAxODZhZTg0YzI4M2Q0YjdhYTFjMzRmZmY2MDkwYjdhZmI5MDE1ZTVmODBmMWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.C998JaKyu6RiY1o1SRhGEJP-gLoxCiYVhgG8AtUlZUs" width="35" height="35" data-target="animated-image.originalImage"></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [📝 How I Successfully Fixed the Dual Boot Menu &lpar;Pop! OS + Windows&rpar;](https://kay-a11y.github.io/posts/pop-windows-dualboot/)
 - [[Windows Guide] How to Refresh Your IP and Change Your Digital Identity with MAC Spoofing](https://kay-a11y.github.io/posts/refresh-ip/)
 - [[Windows Guide] How to Permanently Spoof Your MAC Address](https://kay-a11y.github.io/posts/spoof-mac/)
 - [How Curiosity Hijacked Me: Cracking My Router&#39;s Hidden Token](https://kay-a11y.github.io/posts/logintoken-sha256/)
 - [🪄 Phreaking Journey - Navigation](https://kay-a11y.github.io/posts/phreaking-navigation/)
-- [PART 2.2: 🧸 The Secret Weakness of the Phone System - Why Phreakers Could Trick It with Toys and Whistles](https://kay-a11y.github.io/posts/phreaking-2.2/)
 <!-- BLOG-POST-LIST:END -->
 
   <!-- Awesome GitHub Stats & Trophies -->
