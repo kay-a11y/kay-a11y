@@ -35,14 +35,14 @@
 
 <!-- ========= INTRODUCTION & STATS ========= -->
 <div align="center">
-  <h1 align="center">Hey, there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand" width="35" height="35" /></h1>
+  <h1 align="center">Hey, there <img src="https://media.giphy.com/media/wJBYx2Yh84XS4sTzmz/giphy.gif?cid=ecf05e47ep80hjeomdrztjo6gst6tw88evof2dlvrn1x0bgr&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="Heyaa" width="40" height="40" /></h1>
   <p align="center">
     <em>Digital Ghost navigating the wires | Pythonista & Aspiring Pentester</em><br>
     Exploring the chaos | Code. Freedom. Chaos. V.
   </p>
 
 <div align="center">
-  <h2 align="center">Latest Blog Posts <img src="https://private-user-images.githubusercontent.com/74038190/250967242-a2605358-6b87-44ab-87fb-20dcdc5f9ef2.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ0Njk3ODQsIm5iZiI6MTc0NDQ2OTQ4NCwicGF0aCI6Ii83NDAzODE5MC8yNTA5NjcyNDItYTI2MDUzNTgtNmI4Ny00NGFiLTg3ZmItMjBkY2RjNWY5ZWYyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDEyVDE0NTEyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYzYjFiOGMwNTg2YjM4MjVhZDAxODZhZTg0YzI4M2Q0YjdhYTFjMzRmZmY2MDkwYjdhZmI5MDE1ZTVmODBmMWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.C998JaKyu6RiY1o1SRhGEJP-gLoxCiYVhgG8AtUlZUs" width="35" height="35" data-target="animated-image.originalImage"></h2>
+  <h2 align="center">Latest Blog Posts <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHl2MnBodGNlMmwwOGMxanphYmI0cHEwc2FoMmk5cGUyZGtkYjJxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="40" height="40" data-target="github-logo"></h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [🏫 [CS50x 2025] Lecture 3 Note](https://kay-a11y.github.io/posts/cs50x-Lecture-3/)
@@ -64,7 +64,7 @@
 
 <!-- ========= MY Tech Stack ========= -->
 <div align="center">
-  <h3 style="border-bottom: 2px solid #888; padding-bottom: 5px; display: inline-block;">My Geeky Playground <img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ0Njk3ODQsIm5iZiI6MTc0NDQ2OTQ4NCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDEyVDE0NTEyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZjZDMzOGNjMjVkOTg5Zjc2ODFjMjZjN2FmZGZjYzE1NjdjMGUxNmViNjk4ZjQ2MzljYjM4ZDRjMDFlOWY3MzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XfGixhv9bn11uIIz_nRaPnT_ULVf62w8AgUo-aq2MgU" width="35" height="35" data-target="animated-image.originalImage"></h3>
+  <h3 style="border-bottom: 2px solid #888; padding-bottom: 5px; display: inline-block;">My Geeky Playground <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="35" height="35" data-target="linux-tux-rotate-gif-"></h3>
   <br><br>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" style="vertical-align:middle; margin:6px;" title="Python"/>&nbsp;&nbsp;&nbsp;
@@ -76,15 +76,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" style="vertical-align:middle; margin:6px;" title="Git"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="45" height="45" style="vertical-align:middle; margin:6px;" title="Postman"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" style="vertical-align:middle; margin:6px;" title="VS Code"/>&nbsp;&nbsp;&nbsp;
-    <img src="/img/AdilIRC.png" alt="AdilIRC" width="54" height="54" style="vertical-align:middle; margin:6px;" title="AdilIRC"/>&nbsp;&nbsp;&nbsp;
-
+    <img src="/img/hexchat-logo.svg" alt="AdilIRC" width="54" height="54" style="vertical-align:middle; margin:6px;" title="AdilIRC"/>&nbsp;&nbsp;&nbsp;
+    <img src="/img/pop-os-logo-96.png" alt="AdilIRC" width="54" height="54" style="vertical-align:middle; margin:6px;" title="AdilIRC"/>&nbsp;&nbsp;&nbsp;
   </p>
 </div>
 <br><br>
 
 <!-- ========= CURRENT FOCUS / PROJECTS ========= -->
 <div align="center">
-  <h3>Current Focus <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="35" height="35"></h3>
+  <h3>Current Focus <img src="https://media.giphy.com/media/ThYvJOgOHnuRNkQahc/giphy.gif?cid=ecf05e47r6wwt9rsccj8zc4fghnp91uk4uz8ve7ac4w2j04l&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Feather" width="35" height="35"></h3>
 
   <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -99,7 +99,7 @@
 
 <!-- ========= INTERESTS (Visualized) ========= -->
 <div align="center">
-  <h3 style="border-bottom: 2px solid #888; padding-bottom: 5px; display: inline-block;">Interests & Inspirations <img src="https://private-user-images.githubusercontent.com/74038190/238200839-9c351cb9-c9a2-4b20-8420-e96b8331a53b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ0Njk3ODQsIm5iZiI6MTc0NDQ2OTQ4NCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzktOWMzNTFjYjktYzlhMi00YjIwLTg0MjAtZTk2YjgzMzFhNTNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDEyVDE0NTEyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEzZjAzNTA3MjI2ZjhkODllMDkwMTkwZTcwMDc0MGJhZDJhZDEyYzg2NjQxMGNlZWU5NjhiMjhmN2E1NTZhYzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qGPeyJO040zEXvhYpyqtUw9qgV4j6T14Fmb5_hrAzxc" width="45" height="45" data-target="animated-image.originalImage"></h3>
+  <h3 style="border-bottom: 2px solid #888; padding-bottom: 5px; display: inline-block;">Interests & Inspirations <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDh6azNxMWwwa2IzdmVzanZ4b2xjcWoyeXY3eDB0MTFsdGt0aGNhbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5ZXA1Gb4uleV1nHVhF/giphy.gif" width="45" height="45" data-target="code-rain"></h3>
   <br><br>
    <img src="https://img.shields.io/badge/-Code-000000?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt="Code"/>
    &nbsp;
