@@ -45,11 +45,11 @@
   <h2 align="center">Latest Blog Posts <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHl2MnBodGNlMmwwOGMxanphYmI0cHEwc2FoMmk5cGUyZGtkYjJxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="40" height="40" data-target="github-logo"></h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [🏫 [CS50x 2025] 4-1 Pointer](https://kay-a11y.github.io/posts/cs50x-Lecture-4/)
+- [🏫 [CS50x 2025] 4-2 File I/O](https://kay-a11y.github.io/posts/cs50x-Lecture-4-2/)
+- [🏫 [CS50x 2025] 4-1 Pointer](https://kay-a11y.github.io/posts/cs50x-Lecture-4-1/)
 - [🏫 [CS50x 2025] 3 Sort](https://kay-a11y.github.io/posts/cs50x-Lecture-3/)
 - [How ADHD Gamer Play PowerWash](https://kay-a11y.github.io/posts/PowerWash-xdotool/)
 - [📝 How I Successfully Fixed the Dual Boot Menu &lpar;Pop! OS + Windows&rpar;](https://kay-a11y.github.io/posts/pop-windows-dualboot/)
-- [[Windows Guide] How to Refresh Your IP and Change Your Digital Identity with MAC Spoofing](https://kay-a11y.github.io/posts/refresh-ip/)
 <!-- BLOG-POST-LIST:END -->
 
   <!-- Awesome GitHub Stats & Trophies -->
