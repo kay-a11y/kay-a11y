@@ -45,11 +45,11 @@
   <h2 align="center">Latest Blog Posts <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHl2MnBodGNlMmwwOGMxanphYmI0cHEwc2FoMmk5cGUyZGtkYjJxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="40" height="40" data-target="github-logo"></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Why HTTPS Works: Secret Keys, Mod Math, and That Lock You Ignore](https://kay-a11y.github.io/posts/https-cryptography-math/)
 - [Proxy or Die Trying: Troubleshooting of Ports, Git, and Clash on Linux](https://kay-a11y.github.io/posts/troubleshoot-clash-port/)
 - [Building a Pi-Hole DNS Firewall with Clash VPN Routing - Wireless, Leak-Free, No-Cable Setup](https://kay-a11y.github.io/posts/pi-hole-clash/)
 - [Turn Your Subnet Into a Battlefield - Building a Real Mini C2 Setup](https://kay-a11y.github.io/posts/C2-server/)
 - [Bend the LAN to Your Will - Building Your Own Subnet from Scratch](https://kay-a11y.github.io/posts/create-subnet/)
-- [[Linux] Spoof Your MAC Address in Linux](https://kay-a11y.github.io/posts/spoof-mac-linux/)
 <!-- BLOG-POST-LIST:END -->
 
   <!-- Awesome GitHub Stats & Trophies -->
