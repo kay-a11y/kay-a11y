@@ -77,7 +77,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="45" height="45" style="vertical-align:middle; margin:6px;" title="Postman"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" style="vertical-align:middle; margin:6px;" title="VS Code"/>&nbsp;&nbsp;&nbsp;
     <img src="/img/hexchat-logo.svg" alt="HexChat" width="45" height="45" style="vertical-align:middle; margin:6px;" title="AdilIRC"/>&nbsp;&nbsp;&nbsp;
-    <img src="/img/pop-os-logo-96.png" alt="POPOS" width="54" height="54" style="vertical-align:middle; margin:6px;" title="AdilIRC"/>&nbsp;&nbsp;&nbsp;
+    <img src="/img/pop-os-logo-96.png" alt="POPOS" width="54" height="54" style="vertical-align:middle; margin:6px;" title="POPOS"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" alt="POPOS" width="52" height="52" style="vertical-align:middle; margin:6px;" title="Tux"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" alt="POPOS" width="54" height="54" style="vertical-align:middle; margin:6px;" title="raspberryPi"/>&nbsp;&nbsp;&nbsp;
   </p>
 </div>
 <br><br>
