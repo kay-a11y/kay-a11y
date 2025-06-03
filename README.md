@@ -45,11 +45,11 @@
   <h2 align="center">Latest Blog Posts <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHl2MnBodGNlMmwwOGMxanphYmI0cHEwc2FoMmk5cGUyZGtkYjJxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="40" height="40" data-target="github-logo"></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Why IPv6 Is a Privacy Nightmare in Disguise](https://kay-a11y.github.io/posts/ipv6-sucks/)
 - [From Clash to V2RayN: Unlocking SOCKS5](https://kay-a11y.github.io/posts/clash-v2ray-setup/)
 - [Hashcat Basics: Cracking Passwords with Masks, Modes &amp; Benchmarks](https://kay-a11y.github.io/posts/hashcat/)
 - [Why HTTPS Works: Secret Keys, Mod Math, and That Lock You Ignore](https://kay-a11y.github.io/posts/https-cryptography-math/)
 - [Proxy or Die Trying: Troubleshooting of Ports, Git, and Clash on Linux](https://kay-a11y.github.io/posts/troubleshoot-clash-port/)
-- [Building a Pi-Hole DNS Firewall with Clash VPN Routing - Wireless, Leak-Free, No-Cable Setup](https://kay-a11y.github.io/posts/pi-hole-clash/)
 <!-- BLOG-POST-LIST:END -->
 
   <!-- Awesome GitHub Stats & Trophies -->
