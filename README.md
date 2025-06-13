@@ -45,11 +45,11 @@
   <h2 align="center">Latest Blog Posts <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHl2MnBodGNlMmwwOGMxanphYmI0cHEwc2FoMmk5cGUyZGtkYjJxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="40" height="40" data-target="github-logo"></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [DevTools to .ts: My Full Walkthrough of Building M3U8-Probe](https://kay-a11y.github.io/posts/m3u8-probe/)
 - [Crack That ZIP - Using John + Hashcat &lpar;`No hashes loaded` Error Fix Included&rpar;](https://kay-a11y.github.io/posts/hashcat-john-zip/)
 - [Why IPv6 Is a Privacy Nightmare in Disguise](https://kay-a11y.github.io/posts/ipv6-sucks/)
 - [From Clash to V2RayN: Unlocking SOCKS5](https://kay-a11y.github.io/posts/clash-v2ray-setup/)
 - [Hashcat Basics: Cracking Passwords with Masks, Modes &amp; Benchmarks](https://kay-a11y.github.io/posts/hashcat-basics/)
-- [Why HTTPS Works: Secret Keys, Mod Math, and That Lock You Ignore](https://kay-a11y.github.io/posts/https-cryptography-math/)
 <!-- BLOG-POST-LIST:END -->
 
   <!-- Awesome GitHub Stats & Trophies -->
