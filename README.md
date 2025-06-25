@@ -10,11 +10,11 @@
   <h2 align="center">Latest Blog Posts <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHl2MnBodGNlMmwwOGMxanphYmI0cHEwc2FoMmk5cGUyZGtkYjJxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="40" height="40" data-target="github-logo"></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [How the Internet Works: CGNAT, IPv6, Jump Boxes, Remote Access, and Beyond](https://kay-a11y.github.io/posts/how-internet-works/)
+- [Bypassing CGNAT with Reverse SSH](https://kay-a11y.github.io/posts/reverse-ssh/)
+- [async IO, coroutines &amp; concurrency explained like cake](https://kay-a11y.github.io/posts/async-io/)
+- [🏫 [CS50x 2025] 6 Python](https://kay-a11y.github.io/posts/cs50x-Lecture-6/)
 - [🏫 [CS50x 2025] 5 Data Structures](https://kay-a11y.github.io/posts/cs50x-Lecture-5/)
-- [DevTools to .ts: My Full Walkthrough of Building M3U8-Probe](https://kay-a11y.github.io/posts/m3u8-probe/)
-- [Crack That ZIP - Using John + Hashcat &lpar;`No hashes loaded` Error Fix Included&rpar;](https://kay-a11y.github.io/posts/hashcat-john-zip/)
-- [Why IPv6 Is a Privacy Nightmare in Disguise](https://kay-a11y.github.io/posts/ipv6-sucks/)
-- [From Clash to V2RayN: Unlocking SOCKS5](https://kay-a11y.github.io/posts/clash-v2ray-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
