@@ -41,8 +41,9 @@
   <p>
     Sharpening blades in <strong>Network Security</strong> & <strong>Pentesting</strong><br>
     Building custom tools to slice through firewalls & scrape the web clean:<br><br>
-    <a href="https://github.com/kay-a11y/Gazer" target="_blank"><b>Gazer</b></a> — Python Web Scraping & Automation<br>
-    <a href="https://github.com/kay-a11y/M3u8-Probe" target="_blank"><b>M3u8-Probe</b></a> — M3U8 Sniffer & Video Downloader<br><br>
+    <a href="https://github.com/kay-a11y/aftermark" target="_blank"><b>aftermark</b></a> — CLI tool to obliterate invisible screenshot watermarks<br>
+    <a href="https://github.com/kay-a11y/M3u8-Probe" target="_blank"><b>M3u8-Probe</b></a> — M3U8 Sniffer & Video Downloader<br>
+    <a href="https://github.com/kay-a11y/Gazer" target="_blank"><b>Gazer</b></a> — Python Web Scraping & Automation<br><br>
     <i>Leaving digital breadcrumbs at</i> <a href="https://kay-a11y.github.io/" target="_blank"><code>kay-a11y.github.io</code></a>
   </p>
 </div>
