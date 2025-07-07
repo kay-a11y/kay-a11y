@@ -20,7 +20,7 @@ jobs:
       - name: Setup Git identity
         run: |
           git config --global user.name "kay-a11y"
-          git config --global user.email "kay-a11y@users.noreply.github.com"
+          git config --global user.email "178646443+kay-a11y@users.noreply.github.com"
 
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
