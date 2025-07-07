@@ -2,8 +2,8 @@
 <div align="center">
   <h1 align="center">Hey, there <img src="https://media.giphy.com/media/wJBYx2Yh84XS4sTzmz/giphy.gif?cid=ecf05e47ep80hjeomdrztjo6gst6tw88evof2dlvrn1x0bgr&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="Heyaa" width="40" height="40" /></h1>
   <p align="center">
-    <em>Digital Ghost navigating the wires | Pythonista & Aspiring Pentester</em><br>
-    <strong>Code. Freedom. Chaos. V.</strong><br>
+    <em>python & paths with no return</em><br>
+    <strong>code. freedom. fracture. v.</strong><br>
   </p>
 
 <div align="center">
@@ -16,10 +16,6 @@
 - [🏫 [CS50x 2025] 6 Python](https://kay-a11y.github.io/posts/cs50x-Lecture-6/)
 - [🏫 [CS50x 2025] 5 Data Structures](https://kay-a11y.github.io/posts/cs50x-Lecture-5/)
 <!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-  <p>Full blog at <a href="https://kay-a11y.github.io" target="_blank"><b>kay-a11y.github.io</b></a></p>
-</div>
 
 ---
 
@@ -39,8 +35,8 @@
   </div>
 
   <p>
-    Sharpening blades in <strong>Network Security</strong> & <strong>Pentesting</strong><br>
-    Building custom tools to slice through firewalls & scrape the web clean:<br><br>
+    Writing what I wish existed.<br>
+    <em>To scrape. To vanish. To break cleanly.</em><br><br>
     <a href="https://github.com/kay-a11y/aftermark" target="_blank"><b>aftermark</b></a> — CLI tool to obliterate invisible screenshot watermarks<br>
     <a href="https://github.com/kay-a11y/M3u8-Probe" target="_blank"><b>M3u8-Probe</b></a> — M3U8 Sniffer & Video Downloader<br>
     <a href="https://github.com/kay-a11y/Gazer" target="_blank"><b>Gazer</b></a> — Python Web Scraping & Automation<br><br>
