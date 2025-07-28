@@ -1,3 +1,21 @@
+<!-- GITHUB PROFILE SUMMARY CARDS -->
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/kay-a11y/kay-a11y/main/profile-summary-card-output/dracula/0-profile-details.svg">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/kay-a11y/kay-a11y/main/profile-summary-card-output/dracula/1-repos-per-language.svg">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/kay-a11y/kay-a11y/main/profile-summary-card-output/dracula/2-most-commit-language.svg">
+  </a><br>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/kay-a11y/kay-a11y/main/profile-summary-card-output/dracula/3-stats.svg">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/kay-a11y/kay-a11y/main/profile-summary-card-output/dracula/4-productive-time.svg">
+  </a>
+</p>
 
 <!-- ========= PROJECTS ========= -->
 <div align="center">
@@ -27,12 +45,6 @@
 - [async IO, coroutines &amp; concurrency explained like cake](https://kay-a11y.github.io/posts/async-io/)
 - [🏫 [CS50x 2025] 6 Python](https://kay-a11y.github.io/posts/cs50x-Lecture-6/)
 <!-- BLOG-POST-LIST:END -->
----
-
-  <!-- GITHUB PROFILE SUMMARY CARDS -->
-[![](https://raw.githubusercontent.com/kay-a11y/kay-a11y/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kay-a11y/kay-a11y/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kay-a11y/kay-a11y/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kay-a11y/kay-a11y/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kay-a11y/kay-a11y/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!-- --- -->
 
