@@ -39,11 +39,11 @@
   <h2 align="center">bLog dRoPs <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHl2MnBodGNlMmwwOGMxanphYmI0cHEwc2FoMmk5cGUyZGtkYjJxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="40" height="40" data-target="github-logo"></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Play Cam video on Pi via projector](https://kay-a11y.github.io/posts/pi-projector-play-vid/)
+- [Fixing the `user is locked` Error in Hikvision &amp; Correct RTSP Path Setup](https://kay-a11y.github.io/posts/cam-lock/)
 - [Hidden watermark](https://kay-a11y.github.io/posts/aftermark-watermark/)
 - [How the Internet Works: CGNAT, IPv6, Jump Boxes, Remote Access, and Beyond](https://kay-a11y.github.io/posts/how-internet-works/)
 - [Bypassing CGNAT with Reverse SSH](https://kay-a11y.github.io/posts/reverse-ssh/)
-- [async IO, coroutines &amp; concurrency explained like cake](https://kay-a11y.github.io/posts/async-io/)
-- [🏫 [CS50x 2025] 6 Python](https://kay-a11y.github.io/posts/cs50x-Lecture-6/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- --- -->
