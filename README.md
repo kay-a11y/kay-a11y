@@ -39,11 +39,11 @@
   <h2 align="center">bLog dRoPs <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHl2MnBodGNlMmwwOGMxanphYmI0cHEwc2FoMmk5cGUyZGtkYjJxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="40" height="40" data-target="github-logo"></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [[FIX] Broken SSH &amp; Proxy, SO AM I!](https://kay-a11y.github.io/posts/ssh-outbound-fail/)
 - [Continue disrupted downloads &amp; strip audio tracks &lpar;aria2c + mkvtoolnix&rpar;](https://kay-a11y.github.io/posts/aria2c-mkvtoolnix/)
 - [Play Cam video on Pi via projector](https://kay-a11y.github.io/posts/pi-projector-play-vid/)
 - [Fixing the `user is locked` Error in Hikvision &amp; Correct RTSP Path Setup](https://kay-a11y.github.io/posts/cam-lock/)
 - [Hidden watermark](https://kay-a11y.github.io/posts/aftermark-watermark/)
-- [How the Internet Works: CGNAT, IPv6, Jump Boxes, Remote Access, and Beyond](https://kay-a11y.github.io/posts/how-internet-works/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- --- -->
