@@ -27,6 +27,7 @@
 
   <p>
     Writing what I wish existed.<br>
+    <a href="https://github.com/kay-a11y/m3m3x" target="_blank"><b>m3m3x</b></a> - personal memex: CLI-driven vault for notes, tags & chaos-ordered knowledge<br>
     <a href="https://github.com/kay-a11y/purrgr3ss" target="_blank"><b>purrgr3ss</b></a> - track tasks, spans & sleep with one meow‑powered CLI duo<br>
     <a href="https://github.com/kay-a11y/aftermark" target="_blank"><b>aftermark</b></a> - CLI tool to obliterate invisible screenshot watermarks<br>
     <a href="https://github.com/kay-a11y/M3u8-Probe" target="_blank"><b>M3u8-Probe</b></a> - M3U8 Sniffer & Video Downloader<br>
