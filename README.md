@@ -1,19 +1,19 @@
 <!-- GITHUB PROFILE SUMMARY CARDS -->
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/kay-a11y/kay-a11y/main/profile-summary-card-output/dracula/0-profile-details.svg">
+    <img src="https://raw.githubusercontent.com/kay-a11y/kay-a11y/main/profile-summary-card-output/jolly/0-profile-details.svg">
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/kay-a11y/kay-a11y/main/profile-summary-card-output/dracula/1-repos-per-language.svg">
+    <img src="https://raw.githubusercontent.com/kay-a11y/kay-a11y/main/profile-summary-card-output/jolly/1-repos-per-language.svg">
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/kay-a11y/kay-a11y/main/profile-summary-card-output/dracula/2-most-commit-language.svg">
+    <img src="https://raw.githubusercontent.com/kay-a11y/kay-a11y/main/profile-summary-card-output/jolly/2-most-commit-language.svg">
   </a><br>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/kay-a11y/kay-a11y/main/profile-summary-card-output/dracula/3-stats.svg">
+    <img src="https://raw.githubusercontent.com/kay-a11y/kay-a11y/main/profile-summary-card-output/jolly/3-stats.svg">
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/kay-a11y/kay-a11y/main/profile-summary-card-output/dracula/4-productive-time.svg">
+    <img src="https://raw.githubusercontent.com/kay-a11y/kay-a11y/main/profile-summary-card-output/jolly/4-productive-time.svg">
   </a>
 </p>
 
